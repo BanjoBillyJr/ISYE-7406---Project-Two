@@ -4,4 +4,4 @@ Objective statement: The purpose of this analysis is to better understand linear
 by using variable engineering and dimensionality reduction strategies to reduce overfitting
 and find variables that impact percent body fat (calculated using Brozek's equation).
 
-Please message me for project details - PDF and Code.
+Please message me for project details - PDF, Formal Report  and Code.
